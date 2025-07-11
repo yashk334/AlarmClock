@@ -2,7 +2,7 @@
 
 This is a simple alarm clock built with React. Set a time, and the app will ring when the clock matches!
 
-## 🔗 Live Site [Click to view](https://alarm-clock-lilac-xi.vercel.app)
+## 🔗 Live Site [Click here to view](https://alarm-clock-lilac-xi.vercel.app)
 
 ## 📦 Features
 
