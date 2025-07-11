@@ -17,5 +17,14 @@ This is a simple alarm clock built with React. Set a time, and the app will ring
 - JavaScript
 - CSS
 
+  ## 🛠️ How to Run
+
+```bash
+git clone https://github.com/YOUR-USERNAME/alarm-clock.git
+cd alarm-clock
+npm install
+npm run dev
+
+
 
 
